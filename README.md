@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center" margin="0px" padding="0px">
-  <img margin="0px" padding="0px" src="" alt="YouTube Clone Logo" width="100%" height="300px" />
+  <img margin="0px" padding="0px" src="https://github.com/Sriganesh-G/YouTube-Clone/blob/main/youtube-clone-demo-video.gif" alt="YouTube Clone Logo" width="100%" height="500px" />
 </p>
 
 <!-- Title and Subtitle -->
