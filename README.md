@@ -23,7 +23,7 @@
 - 🔗 **Channel and Video Navigation**: Users can click on a video or a channel to view its details or related content.
 - 🌐 **Fully Responsive**: Designed to work across all device sizes—desktop, tablet, and mobile.
 - 🚀 **Fast and Scalable**: Built with React's fast rendering and state management.
-- 📦 **Deployed on Netlify**: The app is deployed and live at: [YouTube Clone](https://your-netlify-deployed-link.com).
+- 📦 **Deployed on Netlify**: The app is deployed and live at: [YouTube Clone](https://video-streaming-app-5.netlify.app/).
 
 ---
 
@@ -36,19 +36,3 @@
 - 🛠️ **Vite**: Bundling and build tool for faster development
 - 🔥 **Axios**: For making API requests
 
----
-
-<!-- Getting Started -->
-## Getting Started
-
-To get a local copy up and running, follow these steps:
-
-### Prerequisites
-
-- Make sure you have **Node.js** installed on your machine. You can download it [here](https://nodejs.org/).
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/YouTube-Clone.git
